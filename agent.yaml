@@ -1,0 +1,22 @@
+name: ResumeAnalyzerAI
+description: "An AI agent to analyze, score, and improve resumes."
+version: 0.1.0
+entrypoint: main.py
+memory: short-term
+tasks:
+  - name: analyze_resume
+    description: "Parse, score, and provide feedback on a resume"
+    input_schema:
+      type: object
+      properties:
+        resume_text:
+          type: string
+    output_schema:
+      type: object
+      properties:
+        sections:
+          type: object
+        scores:
+          type: object
+        feedback:
+          type: object
