@@ -1,0 +1,39 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1 234 567 890
+LinkedIn: linkedin.com/in/johndoe
+
+Summary:
+Motivated software engineer with 3 years of experience in developing web applications and backend services. Seeking to leverage expertise in Python and cloud technologies to build scalable solutions.
+
+Skills:
+Python, Flask, Django, JavaScript, SQL, REST APIs, Git, AWS, Docker
+
+Experience:
+Software Engineer | ABC Corp | Jan 2021 – Present
+- Developed web applications using Flask and Django.
+- Worked on database optimization and SQL queries.
+- Collaborated with cross-functional teams to deliver projects.
+- Participated in code reviews and team meetings.
+
+Junior Developer | XYZ Solutions | Jun 2019 – Dec 2020
+- Assisted in building internal tools using Python and JavaScript.
+- Maintained and updated company website.
+- Wrote documentation for internal processes.
+- Provided support for software deployment and troubleshooting.
+
+Education:
+Bachelor of Technology in Computer Science | University of Example | 2015 – 2019
+
+Projects:
+Personal Portfolio Website
+- Created a responsive personal website using HTML, CSS, and JavaScript.
+- Showcased projects, skills, and achievements.
+
+Inventory Management System
+- Developed a Python-based inventory system with a SQL backend.
+- Implemented features to track stock levels and generate reports.
+
+Certifications:
+AWS Certified Solutions Architect – Associate
+Certified Python Developer
